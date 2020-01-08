@@ -1,0 +1,42 @@
+.teamDetails {
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    text-align: center;
+    border-style: groove;
+    border-color: rgb(7, 61, 92);
+    margin-top: 20px;
+
+}
+
+.topText {
+    background-color: rgba(43, 159, 226,.75);
+    font-size: x-large;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.teamStatsContainer {
+    margin-top: 20px;
+}
+
+.teamStats {
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.totalMatches {
+    border-bottom: 2px solid rgb(7, 61, 92);
+    background-color: lightgrey;
+    font-size: medium;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.winningRate {
+    font-size: medium;
+    font-weight: bold;
+    letter-spacing: 1px;
+    background-color: lightgrey;
+}

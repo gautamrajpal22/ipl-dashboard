@@ -1,0 +1,108 @@
+.season {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+      height: 100%;
+      z-index: 2;
+      padding: 13px;
+      padding-top: 80px;
+}
+
+.topTitle {
+    font-size: 49px;
+    font-weight: 700;
+    text-align: center;
+}
+.awards {
+    display: flex;
+}
+
+
+.matchDetails {
+    display: flex;
+    
+} 
+
+.orangeCap {
+    font-size: 28px;
+        text-align: left;
+        font-weight: 700;
+        color: orange;
+        display: flex;
+        flex-direction: column;
+        margin:  0 50px ;
+}
+
+.purpleCap {
+    font-size: 28px;
+        text-align: left;
+        font-weight: 700;
+        color: #da60eb;
+        display: flex;
+        flex-direction: column;
+        margin: 0 50px;
+}
+
+.maxSixes {
+    font-size: 28px;
+        text-align: left;
+        font-weight: 700;
+        color: rgb(126, 68, 233);
+        display: flex;
+        flex-direction: column;
+        margin: 0 50px 
+}
+
+.versus {
+    padding: 110px 15px;
+    font-size: large;
+    font-weight: 10px;
+}
+
+.statsText {
+    padding: 10px 70px;
+}
+
+.details {
+    font-size: 10px;
+}
+
+.titles {
+    font-size: 20px;
+}
+
+.seasonResult {
+    display: flex;
+}
+
+.seasonResultContainer {
+    text-align: center;
+    width: 50%;
+    
+}
+
+.seasonStats {
+    display: flex;
+    
+}
+
+.dropdown {
+    padding-top: 25px;
+    padding-left: 15px;
+}
+
+.matchDetailsContainer {
+    display: flex;
+    flex-direction: column;
+    border-left: 2px solid black;
+}
+
+.matchData {
+    display: flex;
+    flex-direction: column;
+}
+
+.horizontalLine {
+    padding-top: 20px;
+    border-bottom: 2px solid black;
+}

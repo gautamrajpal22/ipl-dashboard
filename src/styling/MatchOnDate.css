@@ -1,0 +1,28 @@
+.matchResultContainer {
+    text-align: center;
+    width: 100%;
+}
+
+.versus {
+    padding: 110px 15px;
+    font-size: large;
+    font-weight: 10px;
+}
+
+.matchResult {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+}
+
+.teamsLogo {
+    display: flex;
+}
+
+.resultText {
+    text-align: center;
+    font-size: medium;
+    font-weight: 3px;
+    padding: 25px 0;
+    letter-spacing: 1px;
+}
